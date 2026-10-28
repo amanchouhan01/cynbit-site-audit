@@ -1,3 +1,5 @@
+**Live demo:** https://cynbit-site-audit.vercel.app
+
 # Cynbit Free Website Audit
 
 A lead-generation tool for cynbit.in. A visitor pastes their URL, gets Lighthouse scores and a ranked fix list in about 30 seconds, and can leave an email to get a written plan from the Cynbit team.
